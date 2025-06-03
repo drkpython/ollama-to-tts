@@ -28,20 +28,16 @@ The LLM API and speech recognition API access for this program are completely fr
 - 🚀 **流式响应**：实时显示模型生成内容
 - 🔒 **安全通信**：HTTPS连接+SSL证书验证
 
-## 快速开始 🚀
+## Win如果用Pycharm直接拉仓库🚀
 
 ```bash
-#拉仓库
+#拉仓库依赖自动装
 git clone https://github.com/drkpython/ollama-to-tts.git
 ```
+## Rassberry Pi调试中（即将更新）
 ```bash
-#确保进了根目录
-cd ollama-to-tts
 ```
 ```bash
-# 创建虚拟环境（Windows）
-python3.9 -m venv venv
-
 # 创建虚拟环境（macOS/Linux）
 python3 -m venv venv
 ```
