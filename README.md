@@ -34,7 +34,7 @@ The LLM API and speech recognition API access for this program are completely fr
 #拉仓库依赖自动装
 git clone https://github.com/drkpython/ollama-to-tts.git
 ```
-## Rassberry Pi调试中（即将更新）
+## ‌raspberry‌ Pi调试中（即将更新）
 ```bash
 ```
 ```bash
