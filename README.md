@@ -20,7 +20,7 @@ Note that in mainland China, you need to turn on a VPN because Google's speech r
 
 The LLM API and speech recognition API access for this program are completely free. No SDK is required. You can use it as long as you have an internet connection.
 
-# 白嫖Ollama
+# 白嫖别人的Ollama服务器
 ## 特性亮点 ✨
 - 🎙️ **双模态交互**：支持语音输入/输出和纯文本模式无缝切换
 - 🌐 **跨平台支持**：Windows/macOS/Linux全平台兼容
