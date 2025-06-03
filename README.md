@@ -1,7 +1,7 @@
 # ollama-to-tts
 K博士开发
 
-这是一个基于python的嵌入式llm对话代码（兼容树莓派）/Here is a Python-based embedded LLM conversation code (compatible with Raspberry Pi).
+这是一个基于python的嵌入式llm对话项目（兼容树莓派）/Here is a Python-based embedded LLM conversation code (compatible with Raspberry Pi).
 
 从https://freeollama.oneplus1.top/
 上找来的api和模型名称直接按照我的脚本提示往里面复制就可以
