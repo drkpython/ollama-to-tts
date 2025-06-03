@@ -34,8 +34,10 @@ The LLM API and speech recognition API access for this program are completely fr
 #拉仓库
 git clone https://github.com/drkpython/ollama-to-tts.git
 ```
-
-
+```bash
+#确保进了根目录
+cd ollama-to-tts
+```
 ```bash
 # 创建虚拟环境（Windows）
 python -m venv venv
