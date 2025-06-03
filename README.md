@@ -28,7 +28,7 @@ The LLM API and speech recognition API access for this program are completely fr
 - 🚀 **流式响应**：实时显示模型生成内容
 - 🔒 **安全通信**：HTTPS连接+SSL证书验证
 
-## Win如果用Pycharm直接拉仓库🚀
+## Win如果用Pycharm直接拉仓库🚀python3.9.2
 
 ```bash
 #拉仓库依赖自动装
