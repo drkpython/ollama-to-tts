@@ -40,7 +40,7 @@ cd ollama-to-tts
 ```
 ```bash
 # 创建虚拟环境（Windows）
-python -m venv venv
+python3.9 -m venv venv
 
 # 创建虚拟环境（macOS/Linux）
 python3 -m venv venv
