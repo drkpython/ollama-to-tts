@@ -34,30 +34,3 @@ The LLM API and speech recognition API access for this program are completely fr
 #拉仓库依赖自动装
 git clone https://github.com/drkpython/ollama-to-tts.git
 ```
-## ‌raspberry‌ Pi调试中（即将更新）
-```bash
-```
-```bash
-# 创建虚拟环境（macOS/Linux）
-python3 -m venv venv
-```
-
-```bash
-#装依赖
-pip install -r requirements.txt
-```
-```bash
-#这是用到的库
-certifi==2025.1.31
-charset-normalizer==3.4.1
-idna==3.10
-importlib_metadata==8.6.1
-packaging==24.2
-PyAudio==0.2.14
-pycparser==2.22
-pyttsx3==2.98
-pywin32==310
-requests==2.32.3
-SpeechRecognition==3.14.3
-urllib3==2.3.0
-```
