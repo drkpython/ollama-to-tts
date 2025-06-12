@@ -31,6 +31,6 @@ The LLM API and speech recognition API access for this program are completely fr
 ## Win直接拉仓库🚀python3.9.2
 
 ```bash
-#拉仓库依赖自动装
+#拉仓库依赖自己装
 git clone https://github.com/drkpython/ollama-to-tts.git
 ```
